@@ -1,6 +1,6 @@
 {
   "cli": {
-    "version": ">= 16.18.0",
+    "version": ">= 16.27.0",
     "appVersionSource": "remote"
   },
   "build": {
@@ -17,21 +17,5 @@
   },
   "submit": {
     "production": {}
-  },
-
-  "expo": {
-    "owner": "estaciotodolistse",
-    "name": "to-do-list-2",
-    "slug": "to-do-list-2",
-
-    "android": {
-      "package": "com.estacio.todolist"
-    },
-
-    "extra": {
-      "eas": {
-        "projectId": "46fd818c-fa8b-456c-b510-e5494f5b53d3"
-      }
-    }
   }
 }
